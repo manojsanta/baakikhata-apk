@@ -1,0 +1,8 @@
+# Example local.properties file
+# Copy this file to local.properties and update the path to your Android SDK
+
+sdk.dir=C:\\Android\\sdk
+
+# For Linux/Mac, use forward slashes:
+# sdk.dir=/home/username/Android/Sdk
+
